@@ -18,9 +18,9 @@ sys.path.append('ecom')
 
 # -- Project information -----------------------------------------------------
 
-project = 'ecommerce'
-copyright = '2022, Rohit Roy'
-author = 'Rohit Roy'
+project = 'ecommerce products'
+copyright = '2022, Tanjila Akter Sathi'
+author = 'Tanjila Akter Sathi'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
