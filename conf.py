@@ -18,9 +18,9 @@ sys.path.append('ecom')
 
 # -- Project information -----------------------------------------------------
 
-project = 'ecommerce home profile'
-copyright = '2022, Sarowar Alam'
-author = 'Sarowar Alam'
+project = 'ecommerce'
+copyright = '2022, Faizul Haque Hridoy'
+author = 'Faizul Haque Hridoy'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'

@@ -1,10 +1,10 @@
-.. ecommerce home profile documentation master file, created by
-   sphinx-quickstart on Sun Jan  2 16:02:11 2022.
+.. ecommerce documentation master file, created by
+   sphinx-quickstart on Sun Jan  2 15:28:24 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ecommerce home profile's documentation!
-==================================================
+Welcome to ecommerce's documentation!
+=====================================
 
 .. toctree::
    :maxdepth: 2
